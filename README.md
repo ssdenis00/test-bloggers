@@ -1,6 +1,6 @@
 # [Место]
 
-https://ssdenis00.github.io/mesto/
+https://ssdenis00.github.io/test-bloggers/
 
 Тестовая работа.
 
