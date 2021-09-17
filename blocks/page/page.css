@@ -1,0 +1,17 @@
+.page {
+  cursor: none;
+  font-family: "Montserrat", sans-serif;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 68px;
+  background: #6e105e;
+  color: #eff3f5;
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .page {
+    padding: 0 30px;
+  }
+}

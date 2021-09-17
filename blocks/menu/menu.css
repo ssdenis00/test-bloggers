@@ -1,0 +1,23 @@
+.menu {
+  display: flex;
+  justify-content: space-around;
+  row-gap: 10px;
+  column-gap: 30px;
+  flex-wrap: wrap;
+}
+
+.menu_type_mobile {
+  display: none;
+  flex-direction: column;
+  gap: 20px;
+}
+
+@media (max-width: 768px) {
+  .menu_type_desktop {
+    display: none;
+  }
+
+  .menu_type_mobile {
+    display: flex;
+  }
+}

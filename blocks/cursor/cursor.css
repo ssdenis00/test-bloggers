@@ -1,0 +1,31 @@
+.cursor {
+  pointer-events: none;
+  user-select: none;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  z-index: 1111;
+  background: #fe8b4c;
+  border-radius: 50%;
+  box-sizing: border-box;
+  transition: 0, 1s;
+  transform: translate(-50%, -50%);
+}
+
+.cursor-hover {
+  position: absolute;
+  pointer-events: none;
+  user-select: none;
+  width: 39px;
+  height: 39px;
+  z-index: 1111;
+  border: 2px solid #fe8b4c;
+  border-radius: 50%;
+  visibility: hidden;
+  transition: transform 0.2s ease-in-out;
+}
+
+.cursor-hover_active {
+  visibility: visible;
+  transform: scale(2, 2);
+}

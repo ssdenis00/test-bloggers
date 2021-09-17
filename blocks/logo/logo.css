@@ -1,0 +1,15 @@
+.logo {
+  cursor: none;
+  display: block;
+  background: center / cover url("../../images/logo.svg") no-repeat;
+}
+
+.logo_place_header {
+  width: 98px;
+  height: 98px;
+}
+
+.logo_place_footer {
+  width: 201px;
+  height: 201px;
+}
