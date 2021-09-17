@@ -6,7 +6,7 @@ const bloggers = [
     youtubeSubs: '3 160 000',
     vkSubs: '134 000',
     instagramSubs: '128 000',
-    avatar: '../images/bloger-logo.jpg',
+    avatar: './images/bloger-logo.jpg',
   },
   {
     id: '1',
@@ -15,7 +15,7 @@ const bloggers = [
     youtubeSubs: '3 160 000',
     vkSubs: '134 000',
     instagramSubs: '128 000',
-    avatar: '../images/bloger-logo.jpg',
+    avatar: './images/bloger-logo.jpg',
   },
   {
     id: '2',
@@ -24,7 +24,7 @@ const bloggers = [
     youtubeSubs: '3 160 000',
     vkSubs: '134 000',
     instagramSubs: '128 000',
-    avatar: '../images/bloger-logo.jpg',
+    avatar: './images/bloger-logo.jpg',
   },
   {
     id: '3',
@@ -33,7 +33,7 @@ const bloggers = [
     youtubeSubs: '3 160 000',
     vkSubs: '134 000',
     instagramSubs: '128 000',
-    avatar: '../images/bloger-logo.jpg',
+    avatar: './images/bloger-logo.jpg',
   },
   {
     id: '4',
@@ -42,7 +42,7 @@ const bloggers = [
     youtubeSubs: '3 160 000',
     vkSubs: '134 000',
     instagramSubs: '128 000',
-    avatar: '../images/bloger-logo.jpg',
+    avatar: './images/bloger-logo.jpg',
   },
   {
     id: '5',
@@ -51,7 +51,7 @@ const bloggers = [
     youtubeSubs: '3 160 000',
     vkSubs: '134 000',
     instagramSubs: '128 000',
-    avatar: '../images/bloger-logo.jpg',
+    avatar: './images/bloger-logo.jpg',
   },
   {
     id: '6',
@@ -60,7 +60,7 @@ const bloggers = [
     youtubeSubs: '3 160 000',
     vkSubs: '134 000',
     instagramSubs: '128 000',
-    avatar: '../images/bloger-logo.jpg',
+    avatar: './images/bloger-logo.jpg',
   },
   {
     id: '7',
@@ -69,7 +69,7 @@ const bloggers = [
     youtubeSubs: '3 160 000',
     vkSubs: '134 000',
     instagramSubs: '128 000',
-    avatar: '../images/bloger-logo.jpg',
+    avatar: './images/bloger-logo.jpg',
   },
 ]
 
